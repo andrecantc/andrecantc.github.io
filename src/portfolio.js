@@ -11,8 +11,8 @@ const about = {
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
   resume: 'https://drive.google.com/file/d/1e3S2iDVx9bjf_CCrA_rp0nFa8YclRCDL/view?usp=share_link',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/andr%C3%A9-gaudet/',
+    github: 'https://github.com/andrecantc',
   },
 }
 const skills = [
@@ -30,4 +30,4 @@ const contact = {
   email: 'andre.gaudet.ag@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about,  skills, contact }
