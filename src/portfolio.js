@@ -8,7 +8,7 @@ const about = {
   name: 'André Gaudet',
   role: 'IT Student',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    '"Backend enthusiast"',
   resume: 'https://drive.google.com/file/d/1e3S2iDVx9bjf_CCrA_rp0nFa8YclRCDL/view?usp=share_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/andr%C3%A9-gaudet/',
